@@ -1,0 +1,11 @@
+.Footer{
+    background: #f9f9f9;
+    color:#000;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 11%;
+}
+.footer__enlace__youtube{
+    color: black;
+    text-decoration: none;
+}
