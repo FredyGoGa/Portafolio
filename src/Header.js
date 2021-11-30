@@ -14,7 +14,7 @@ function Header() {
                     <button> Button
                     </button>
                 </div>
-                <div>cabecera</div>
+                <div><h2>cabecera</h2></div>
                     <a href="/contacto">Contacto</a>
                     <a href="/#proyectos">Proyecto</a>
                     <a href="https://github.com/FredyGoGa">Github</a>
