@@ -8,7 +8,7 @@ function home() {
                 <h1>Fredy <strong>Gonzalez</strong></h1>
             </div>
             <div className="home__subBanner">
-                <p>Programador | ADSI | Skater</p>
+                <p>FRONT END DEVELOPER | ANALISTA DE SISTEMAS | SKATER</p>
             </div>
             <div className="home__content" id="proyectos">
 

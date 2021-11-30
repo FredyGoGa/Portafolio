@@ -9,6 +9,12 @@ function Header() {
 
             <div className="header__nav">
                 <nav>
+
+                <div class="wrapper">
+                    <button> Button
+                    </button>
+                </div>
+                
                     <a href="/contacto">Contacto</a>
                     <a href="/#proyectos">Proyecto</a>
                     <a href="https://github.com/FredyGoGa">Github</a>

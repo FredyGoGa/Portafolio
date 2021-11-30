@@ -31,3 +31,6 @@ form{
 .contact__form button{
     width: 150px;
 }
+.enviar{
+    background-color: blue;
+}

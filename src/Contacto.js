@@ -33,7 +33,7 @@ function Contacto() {
                 <form>
                       <input value={name} onChange={(e)=>setName(e.target.value)}name="nombre" placeholder="nombre"/>
                       <textarea value={message} onChange={(e)=>setMessage(e.target.value)}placeholder="Escribe aquí tu mensaje..."></textarea>
-                      <button onClick={sendMessage}>Envíar mensaje</button>
+                      <button className="enviar" onClick={sendMessage}>Envíar mensaje</button>
                     
                 </form>
             </div>
