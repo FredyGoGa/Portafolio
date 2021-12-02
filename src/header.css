@@ -21,7 +21,7 @@
     width: auto;
    }
    
-   button {
+   /* button {
     display: block;
     position: relative;
     margin: 0.5em 0;
@@ -146,7 +146,7 @@
      opacity: 1;
      transform: translate3d(calc(var(--z) * 100px), calc(var(--z) * 100px), calc(var(--z) * 100px));
     }
-   }
+   } */
 
 .header .header__nav a {
     color: black;

@@ -52,8 +52,10 @@
     height: 250px;
     justify-content: center;
     align-items: center;
-    background:blueviolet;
+    background:#3cc3d2;
+    background-image: radial-gradient(circle at 29.83% 93.26%, #ecffff 0, #caffff 25%, #9df2f2 50%, #6cd8de 75%, #3cc3d2 100%);
     margin:1%;
+    border-radius: 15px;
 }
 
 .home__content__clusters div a {
