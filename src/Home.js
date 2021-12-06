@@ -24,7 +24,7 @@ function home() {
                     </div>
 
                     <div>
-                        <a href="/">
+                        <a href="//">
                             <h3>Proyecto 2</h3>
                         </a>
                     </div>

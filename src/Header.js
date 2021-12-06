@@ -11,10 +11,9 @@ function Header() {
                 <nav>
 
                 <div class="wrapper">
-                    <button> Button
-                    </button>
+                    
                 </div>
-                <div><h2>cabecera</h2></div>
+                
                     <a href="/contacto">Contacto</a>
                     <a href="/#proyectos">Proyecto</a>
                     <a href="https://github.com/FredyGoGa">Github</a>
