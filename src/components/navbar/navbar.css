@@ -1,3 +1,4 @@
+
 .navbar {
     position: fixed;
     top: 0;
@@ -7,10 +8,16 @@
     padding-left: 50px;
     font-size: 20px;
     z-index: 1;
-}
-.navbar-logo {
+  }
+  
+  .scrolling {
+    background-color: black;
+    transition: all 0.5s ease;
+  }
+  
+  .navbar-logo {
     height: 80px;
     line-height: 80px;
     color: white;
     cursor: pointer;
-}  
+  }
