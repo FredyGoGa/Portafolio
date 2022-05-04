@@ -4,6 +4,7 @@ import './App.css';
 import Cover from "./components/cover/Cover";
 import Navbar from "./components/navbar/Navbar";
 import About from "./components/About/About";
+import Slider from "./components/Slider/Slider";
 
 
 
@@ -23,6 +24,7 @@ function App() {
        <Navbar isScrolling={scrollHeight}/>
        <Cover />
        <About />
+       <Slider />
     </div>
   );
 }
