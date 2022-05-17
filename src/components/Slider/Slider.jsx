@@ -20,13 +20,13 @@ const Slider = () => {
         offset={50}
         itemWidth={400}
         slides={slides}
-        // breakpoints={{
-        //   960: {
-        //     slidesPerPage: 1,
-        //     arrows: false,
-        //     itemWidth: 250,
-        //   },
-        // }}
+         breakpoints={{
+           960: {
+             slidesPerPage: 1,
+             arrows: false,
+             itemWidth: 250,
+           },
+         }}
       />
     </div>
   )
