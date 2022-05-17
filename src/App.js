@@ -6,6 +6,7 @@ import Navbar from "./components/navbar/Navbar";
 import About from "./components/About/About";
 import Slider from "./components/Slider/Slider";
 import Info from "./components/Info/Info";
+import Footer from "./components/Footer/Footer";
 
 
 function App() {
@@ -26,7 +27,7 @@ function App() {
        <About />
        <Slider />
        <Info />
-
+       <Footer /> 
     </div>
   );
 }
