@@ -49,10 +49,12 @@
     .about-img {
       width: 100%;
       margin-bottom: 50px;
+      
     }
   
     .about-img > img {
-      width: 100%;
+      max-width: 100%;
+     
     }
   }
   .about-icons{
