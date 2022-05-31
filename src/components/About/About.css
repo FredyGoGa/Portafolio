@@ -22,10 +22,11 @@
 
 }
 .about-img{
-    width: 45%;
+    width: 50%;
+    
     display: flex;
     align-self: center;
-    overflow: hidden;
+    overflow: hidden; 
 }
 @media only screen and (max-width: 960px) {
     .about-container {
@@ -49,6 +50,7 @@
     .about-img {
       width: 100%;
       margin-bottom: 50px;
+      
       
     }
   

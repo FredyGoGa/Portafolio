@@ -41,11 +41,12 @@
     display: grid;
     width: 100%;
     grid-template-columns: 1fr 1fr 1fr;
+
   }
   .linkedin,
   .twitter,
   .facebook {
-  color: white;
+  color: aquamarine;
   font-size: 35px;
   margin: 0 auto;
   padding-bottom: 10px;
