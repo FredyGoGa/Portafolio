@@ -40,12 +40,13 @@
   .sns-links {
     display: grid;
     width: 100%;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
 
   }
   .linkedin,
   .twitter,
-  .facebook {
+  .facebook,
+  .github {
   color: aquamarine;
   font-size: 35px;
   margin: 0 auto;
@@ -55,7 +56,8 @@
 
  .linkedin:hover,
  .twitter:hover,
- .facebook:hover {
+ .facebook:hover, 
+ .github:hover{
   border-color: white;
   transition: all 0.3s ease-out;
 }
